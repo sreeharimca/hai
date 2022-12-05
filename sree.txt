@@ -1,0 +1,4 @@
+ PYTHON
+Python is a high-level object-oriented programming language. It is a general-purpose programming
+language that can be used for programming, system scripting, mathematics, web development, & software 
+ development unlike other languages like HTML & java.
